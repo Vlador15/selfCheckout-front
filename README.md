@@ -24,3 +24,4 @@ React.js / Mobx / SCSS
 - Переадресация на экран кассы самообслуживания
 
 <img src="https://imgur.com/pIbfCEs" max-width="600" />
+![скриншот](https://imgur.com/pIbfCEs) 

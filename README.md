@@ -23,4 +23,4 @@ React.js / Mobx / SCSS
 - Выбор кассы самообслуживания
 - Переадресация на экран кассы самообслуживания
 
-![скриншот](https://imgur.com/pIbfCEs) 
+![скриншот](https://i.imgur.com/pIbfCEs.png) 
